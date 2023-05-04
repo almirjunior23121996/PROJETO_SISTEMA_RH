@@ -1,4 +1,4 @@
-# PROJETO_SISTEMA_RECURSOS_HUMANOS
+# PROJETO SISTEMA RECURSOS HUMANOS
 ## PROGRAMA RECURSOS HUMANOS
 
 O sistema de Recursos Humanos é uma ferramenta que ajuda os funcionários de uma empresa. Ele pode ser usado para cadastrar os funcionários, calcular valores a receber de ferias, calcular a folha de pagamento, calcular inss , calcular irrf, calcular benefícios de desconto fgts, verificar se está apto a receber o seguro desemprego, calcular valor da multa fgts, calcular valores de vale transporte, calcular benefício pis, calculo de horas noturnas, periculosidade. Além disso, o sistema pode ser personalizado para atender às necessidades específicas de cada empresa.
