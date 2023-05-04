@@ -51,3 +51,37 @@ simulador vale transporte o sistema irá calcular automaticamente se vale a pena
 **SIMULADOR DE ADICIONAL DE HORAS EXTRAS:** Para usar esta função, basta informar o salário do funcionário, o número de horas extras trabalhadas . O sistema irá calcular o valor total das horas extras a ser pago ao trabalhador.Lembre-se certifique de inserir todas as informações necessárias e verificar se os dados inseridos estão preenchidos corretamente.
 
 **SIMULADOR DE CONTRACHEQUE:** Para usar esta função, basta selecionara tela simulador contracheque, assim informe o valor do seu salário, informe se fez algum adicional, horas extras adicionais noturnos ou periculosidade e responda se ultiliza o benéficio do vale transporte. O progrma irá calcular automaticamente os valores de descontos e adicionais que o funcionário irá receber no mês.Lembre-se certifique de inserir todas as informações necessárias e verificar se os dados inseridos estão preenchidos corretamente.
+
+
+
+
+
+>> ## REFERENCIAS BIBLIOGRAFICAS
+
+#### REFERÊNCIAS DOS  DADOS OBTIDOS.
+
+"DESCONTO DE INSS.[REFERENCIAS INSS](https://www.mobills.com.br/blog/direitos/desconto-do-inss/)
+
+
+"DESCONTO IMPOSTO IRRF."
+Desconto IRRF:[REFERENCIAS IRRF](https://www.pontotel.com.br/desconto-irrf/#:~:text=Base%20do%20IRRF%20%3D%20Sal%C3%A1rio%20Bruto%20%E2%80%93%20Desconto,come%C3%A7ar%20o%20c%C3%A1lculo%20baseado%20no%20desconto%20do%20INSS.)
+
+"CALCULO FÉRIAS."
+Como calcular férias: [REFERENCIAS CALCULO FERIAS](https://blog.nubank.com.br/como-calcular-ferias/)
+
+"CALCULO MENSAL FGTS."
+Cálculo FGTS: [REFERENCIAS FGTS)](https://blog.nubank.com.br/calculo-fgts-como-funciona/)
+
+"MULTA FGTS." [REFERENCIAS MULTA FGTS](https://www.mobills.com.br/calculadoras/calculadora-rescisao/)
+
+"BENEFÍCIO SEGURO-DESEMPREGO."[REFERENCIAS SEGURO DESEMPREGO](https://www.calcule.net/trabalhista/calculo-seguro-desemprego/)
+
+"VALE TRANSPORTE." [REFERENCIAS VALE TRANSPORTE](https://www.oitchau.com.br/blog/vale-transporte-vt-como-calcular/)
+
+"PIS." [REFERENCIAS PIS](https://www.jornalcontabil.com.br/pis-entenda-como-fazer-o-calculo/)
+
+"ADICIONAL NOTURNO." [REFERENCIAS ADICIONAL NOTURNO](https://calculomania.com/calculo-de-adicional-noturno/)
+
+"ADICIONAL PERICULOSIDADE."[REFERENCIAS PERICULOSIDADE](https://tworh.com.br/periculosidade/)
+
+"HORAS EXTRAS."[REFERENCIAS HORAS EXTRAS](https://www.coalize.com.br/como-calcular-hora-extra)
